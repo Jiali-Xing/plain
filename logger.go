@@ -1,4 +1,4 @@
-package charon
+package plain
 
 import (
 	"fmt"
